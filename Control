@@ -1,0 +1,9 @@
+Package: com.y7.pubgloader
+Name: PUBG Custom Loader
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Custom Dylib Loader for PUBG (Global, TW, VN, KR) with English & Sorani UI.
+Maintainer: Y7_KRD
+Author: Y7_KRD
+Section: Tweaks
